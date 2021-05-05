@@ -1,6 +1,7 @@
 class Translation(object):
-    START_TEXT = """Hai,I Am URL Uploader
-      
+    START_TEXT = """Hello 😌🥂
+    if Any bugs report @featzai
+    Made by @featzai 🥰
 ☛ URL with Custom Thumbnail Support..
 
 ☛ Send - url | New Name.Extension
@@ -41,7 +42,8 @@ Expires on: Untill my death ☭"""
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
    File  - Give File without Screenshots</b>"""
-    REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
+  
+REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to /rename with custom thumbnail support"
