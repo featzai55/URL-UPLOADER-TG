@@ -1,6 +1,6 @@
 class Translation(object):
-    START_TEXT = """Hai,I Am URL Uploader
-      
+    START_TEXT = """Hello 😌🥂
+    Updates  
 ☛ URL with Custom Thumbnail Support..
 
 ☛ Send - url | New Name.Extension
